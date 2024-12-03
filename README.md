@@ -1,4 +1,4 @@
-# Log Analyzer Tool
+# Log Analyzer SCRIPT
 
 ### Overview
 This Python script processes web server log files to extract and analyze key information. It evaluates log data to provide insights such as request counts per IP address, the most frequently accessed endpoints, and potential suspicious activities like brute-force login attempts. This tool is particularly useful for cybersecurity-related tasks, network administration, and log auditing.
